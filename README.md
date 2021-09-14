@@ -18,7 +18,7 @@ the technologies used include
     <li>jquery</li>
     <li>JavaScript</li>
 </ul>
- ## BDD 
+#### BDD 
   <ol>
       <li>input your name </li>
       <li>input your email</li>
