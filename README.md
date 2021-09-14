@@ -15,10 +15,10 @@ the technologies used include
     <li> HTML</li>
     <li> CSS</li>
     <li>Bootstrap<li>
-    <li>jquery<li>
+    <li>jquery</li>
     <li>JavaScript</li>
 </ul>
-    ## BDD 
+ ## BDD 
   <ol>
       <li>input your name </li>
       <li>input your email</li>
