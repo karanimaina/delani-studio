@@ -1,10 +1,13 @@
 # delani-studio
 #### this is a business website for delani studio
+
 #### by Felixmaina
 ##setup installations
 no additinal scripts are required to run this website
+
 ## known bugs
 there are currently no known bugs to run the website
+
 ## technologies used
 the technologies used include
 <ul> 
@@ -12,8 +15,10 @@ the technologies used include
     <li> CSS</li>
     <li>JavaScript</li>
 </ul>
+
 ## support and contact details.
 for any ideas improvement,concerns or queries you can reach me via  karani.maina2010@gmail.com. you can also make a contribution to this code,fork it etc.
+
 ### license
 MIT License
 
