@@ -3,9 +3,9 @@
 #### by Felixmaina
 ##setup installations
 no additinal scripts are required to run this website
-##known bugs
+## known bugs
 there are currently no known bugs to run the website
-##technologies used
+## technologies used
 the technologies used include
 <ul> 
     <li> HTML</li>
@@ -14,7 +14,7 @@ the technologies used include
 </ul>
 ## support and contact details.
 for any ideas improvement,concerns or queries you can reach me via  karani.maina2010@gmail.com. you can also make a contribution to this code,fork it etc.
-###license
+### license
 MIT License
 
 Copyright (2021)  [Felix Maina]
