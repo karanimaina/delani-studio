@@ -14,9 +14,20 @@ the technologies used include
 <ul> 
     <li> HTML</li>
     <li> CSS</li>
+    <li>Bootstrap<li>
+    <li>jquery<li>
     <li>JavaScript</li>
+    <
 </ul>
-
+    ## BDD 
+  <ol>
+      <li>input your name </li>
+      <li>input your email</li>
+      <li>write a comment</li>
+      <li>press submit</li>
+   </ol>
+  a pop op message indicating your message has been recieved and thank you for contacting  us
+    
 ## support and contact details.
 for any ideas improvement,concerns or queries you can reach me via  karani.maina2010@gmail.com. you can also make a contribution to this code,fork it etc.
 
