@@ -1,5 +1,5 @@
 # delani-studio
-#### this is a business website for delani studio
+#### this is a business website for delani studio,it has details about their services, a portfolio that gives  more information about their studio and a form where users can send their comments and concerns
 
 #### by Felixmaina
 
@@ -17,7 +17,6 @@ the technologies used include
     <li>Bootstrap<li>
     <li>jquery<li>
     <li>JavaScript</li>
-    <
 </ul>
     ## BDD 
   <ol>
@@ -26,7 +25,7 @@ the technologies used include
       <li>write a comment</li>
       <li>press submit</li>
    </ol>
-  a pop op message indicating your message has been recieved and thank you for contacting  us
+  a pop up message indicating your message has been recieved and thank you for contacting  us
     
 ## support and contact details.
 for any ideas improvement,concerns or queries you can reach me via  karani.maina2010@gmail.com. you can also make a contribution to this code,fork it etc.
